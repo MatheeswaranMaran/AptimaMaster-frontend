@@ -1,5 +1,5 @@
 import React from "react";
-import "./subscribesuccess.css";
+import "./SubscribeSuccess.css";
 import { Link, useParams } from "react-router-dom";
 import { CourseData } from "../../context/CourseContext";
 
