@@ -1,7 +1,7 @@
 import React from "react";
 import { MdOutlineDashboard } from "react-icons/md";
 import { IoLogOutOutline } from "react-icons/io5";
-import "./account.css";
+import "./Account.css";
 import { UserData } from "../../context/UserContext";
 import toast from "react-hot-toast";
 import { useNavigate } from "react-router-dom";
