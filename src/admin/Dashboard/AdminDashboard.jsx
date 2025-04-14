@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import Layout from "../Utils/Layout";
 import axios from "axios";
 import { server } from "../../main";
-import './dashboard.css'
+import './Dashboard.css'
 
 const AdminDashboard = ({ user }) => {
   const navigate = useNavigate();
