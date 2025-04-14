@@ -1,6 +1,6 @@
 import React from "react";
 import SideBar from './SideBar';
-import "./common.css";
+import "./Common.css";
 
 const Layout = ({children}) => {
   return (
