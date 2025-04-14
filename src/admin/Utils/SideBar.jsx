@@ -1,5 +1,5 @@
 import React from "react";
-import "./common.css";
+import "./Common.css";
 import { Link } from "react-router-dom";
 import { TiHome } from "react-icons/ti";
 import { FaBook, FaUserAlt } from "react-icons/fa";
